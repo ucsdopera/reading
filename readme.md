@@ -1,7 +1,7 @@
 # OPERA Weekly reading group
 
 
-## 2019 Spring
+## 2019 Winter
 
 | Date        |   Paper   |   Source       |  Presenter |
 | ------------- |-------------| -----| -----| 
