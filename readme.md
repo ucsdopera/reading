@@ -10,6 +10,6 @@
 | 2/7  | [Understanding and Auto-Adjusting Performance-Sensitive configurations](https://arxiv.org/pdf/1710.07628.pdf) | ASPLOS'18 | CC |
 | 2/14 | [Investigating System Operators’ Perspective on Security Misconfigurations](https://kevin.borgolte.me/files/pdf/ccs2018-security-misconfigurations.pdf) | CCS'18 | Bingyu |
 | 2/21 | [PIVOT: Learning API-Device Correlations to Facilitate Android Compatibility Issue Detection]() | ICSE'19 | LiLi |
-| 2/28 | [An Analysis of Persistent Memory Use with WHISPER](http://research.cs.wisc.edu/multifacet/papers/asplos17_whisper.pdf) |  | Mingyao |
+| 2/28 | [An Analysis of Persistent Memory Use with WHISPER](http://research.cs.wisc.edu/multifacet/papers/asplos17_whisper.pdf) | ASPLOS'17 | Mingyao |
 | 3/7  |  |  | Yudong |
 | 3/14 |  |  | Haochen |
