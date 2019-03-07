@@ -11,5 +11,5 @@
 | 2/14 | [Investigating System Operators’ Perspective on Security Misconfigurations](https://kevin.borgolte.me/files/pdf/ccs2018-security-misconfigurations.pdf) | CCS'18 | Bingyu |
 | 2/21 | [PIVOT: Learning API-Device Correlations to Facilitate Android Compatibility Issue Detection]() | ICSE'19 | LiLi |
 | 2/28 | [An Analysis of Persistent Memory Use with WHISPER](http://research.cs.wisc.edu/multifacet/papers/asplos17_whisper.pdf) | ASPLOS'17 | Mingyao |
-| 3/7  |  |  | Yudong |
-| 3/14 |  |  | Haochen |
+| 3/7  | [Devirtualizing memory in heterogeneous systems](http://pages.cs.wisc.edu/~swapnilh/resources/asplos18_dvm_final.pdf) | ASPLOS'18 | Yudong |
+| 3/14 | Cancelled for Visit Day |  |  |
