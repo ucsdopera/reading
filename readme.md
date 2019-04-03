@@ -13,3 +13,4 @@
 | 2/28 | [An Analysis of Persistent Memory Use with WHISPER](http://research.cs.wisc.edu/multifacet/papers/asplos17_whisper.pdf) | ASPLOS'17 | Mingyao |
 | 3/7  | [Devirtualizing memory in heterogeneous systems](http://pages.cs.wisc.edu/~swapnilh/resources/asplos18_dvm_final.pdf) | ASPLOS'18 | Yudong |
 | 3/14 | Cancelled for Visit Day |  |  |
+| 4/4  | [CherryPick: Adaptively Unearthing the Best Cloud Configurations for Big Data Analytics](https://www.usenix.org/system/files/conference/nsdi17/nsdi17-alipourfard.pdf) | NSDI'17 | Haochen |
