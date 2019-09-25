@@ -1,6 +1,25 @@
 # OPERA Weekly reading group
 
 
+
+## 2019 Fall
+
+| Date        |   Paper   |   Source       |  Presenter |
+| ------------- |-------------| -----| -----| 
+| 10/1  |  |  | Yudong |
+| 10/1  |  |  | Mingyao |
+| 10/8  |  |  |  |
+| 10/15  |  |  |  |
+| 10/22  |  |  |  |
+| 11/5  |  |  |  |
+| 11/12  |  |  |  |
+| 11/19  |  |  |  |
+| 11/26  |  |  |  |
+| 12/3  |  |  |  |
+| 12/10  |  |  |  |
+| 12/17  |  |  |  |
+
+
 ## 2019 Spring
 
 | Date        |   Paper   |   Source       |  Presenter |
