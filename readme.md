@@ -6,7 +6,7 @@
 
 | Date        |   Paper   |   Source       |  Presenter |
 | ------------- |-------------| -----| -----| 
-| 10/1  |  |  | Yudong |
+| 10/1  | [Whole-System Persistence](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/paper-updated.pdf) | ASPLOS 12' | Yudong |
 | 10/1  |  |  | Mingyao |
 | 10/8  |  |  |  |
 | 10/15  |  |  |  |
