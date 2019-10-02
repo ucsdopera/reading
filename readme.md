@@ -7,8 +7,7 @@
 | Date        |   Paper   |   Source       |  Presenter |
 | ------------- |-------------| -----| -----| 
 | 10/1  | [Whole-System Persistence](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/paper-updated.pdf) | ASPLOS 12' | Yudong |
-| 10/1  | [Integrating Reliable Memory in Databases](https://web.eecs.umich.edu/~pmchen/papers/ng98.pdf) <br> [Fast Database Restarts at Facebook](https://research.fb.com/wp-content/uploads/2016/11/fast-database-restarts-at-facebook.pdf) | VLDB'97 <br> SIGMOD'14 | Mingyao |
-| 10/8  |  |  |  |
+| 10/8  |  |  | Mingyao |
 | 10/15  |  |  |  |
 | 10/22  |  |  |  |
 | 10/29  | Cancelled. |  |  |
