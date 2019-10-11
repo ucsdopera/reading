@@ -7,7 +7,7 @@
 | Date        |   Paper   |   Source       |  Presenter |
 | ------------- |-------------| -----| -----| 
 | 10/1  | [Whole-System Persistence](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/paper-updated.pdf) | ASPLOS 12' | Yudong |
-| 10/8  |  |  | Mingyao |
+| 10/8  | Practice talk. | CCS19 | CC |
 | 10/15  |  |  |  |
 | 10/22  |  |  |  |
 | 10/29  | Cancelled. |  |  |
