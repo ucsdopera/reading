@@ -9,7 +9,7 @@
 | 10/1  | [Whole-System Persistence](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/paper-updated.pdf) | ASPLOS 12' | Yudong |
 | 10/8  | Practice talk. | CCS'19 | CC |
 | 10/15  | Magpie + XTrace | NSDI'07 | BY |
-| 10/22  |  |  |  |
+| 10/22  | NOVA  | FAST'16 | Mingyao |
 | 10/29  | Cancelled. |  |  |
 | 11/5  |  |  |  |
 | 11/12  |  |  |  |
