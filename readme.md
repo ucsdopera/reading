@@ -1,5 +1,8 @@
 # OPERA Weekly reading group
 
+## 2020 Winter
+Read papers from
+[http://cseweb.ucsd.edu/classes/wi20/cse291-d/](http://cseweb.ucsd.edu/classes/wi20/cse291-d/)
 
 
 ## 2019 Fall
@@ -11,13 +14,6 @@
 | 10/15  | Magpie + XTrace | NSDI'07 | BY |
 | 10/22  | NOVA  | FAST'16 | Mingyao |
 | 10/29  | Cancelled. |  |  |
-| 11/5  |  |  |  |
-| 11/12  |  |  |  |
-| 11/19  |  |  |  |
-| 11/26  |  |  |  |
-| 12/3  |  |  |  |
-| 12/10  |  |  |  |
-| 12/17  |  |  |  |
 
 
 ## 2019 Spring
